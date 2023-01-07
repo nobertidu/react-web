@@ -1,0 +1,8 @@
+{
+  "name": "react-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "tailwind-scrollbar-hide": "^1.1.7"
+  }
+}
